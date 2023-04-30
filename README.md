@@ -2,9 +2,9 @@
 
 ## Features:
 - Removable stick
-- Two difаerent stick's size, improved stick's parts mounting, used other type of 5-way Hat/POV Switches
+- Two different stick's size, improved stick's parts mounting, used other type of 5-way Hat/POV Switches
 - Improved Gimbal parts mounting, corrected the dimensions of the holes for the bearings
-- Two difаerent types of housing, one with additional axes and toggles
+- Two different types of housing, one with additional axes and toggles
 
 ## 3D Model
 You can see assembled 3D model in [this URL](https://a360.co/3Li3Hh7)
