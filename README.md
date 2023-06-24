@@ -17,13 +17,15 @@ You can see the assembled 3D models in web:
 - [Rectangular JoyStick Base](https://a360.co/3q2hyS1)
 
 ## Printing
-- White and black PLA+, red PTEG
+- White and black PLA+, red PETG
 - Rafts: Yes
 - Supports: Yes
-- Infill: 30 - 60%
+- Infill: 20 - 30 - 60%
  
 ## Components (not complete)
-- Bearing 6802zz (15x24x5mm)  - 5 units
+- Bearing 6802zz (15x24x5mm) - 5 units
+- Bearing MF105zz - 8 units
+- Bearing 685zz - 4 units
 - Adhesive non-slip pad 200x200mm - 1 init
 - The TLE5011/5010 sensors - 2 units
 - Hall-effect sensor (SS49E for example) - 1 unit
