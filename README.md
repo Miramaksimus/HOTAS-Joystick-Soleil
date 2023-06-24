@@ -7,7 +7,14 @@
 - Two different types of housing, one with additional axes and toggles
 
 ## 3D Model
-You can see assembled 3D model in [this URL](https://a360.co/3Li3Hh7)
+You can see the assembled 3D models in web:
+- [Short Size Stick](https://a360.co/3PqR6vJ)
+
+- [Normal Size Stick](https://a360.co/3PvqF8i)
+
+- [Cylindrical JoyStick Base](https://a360.co/3Li3Hh7)
+
+- [Rectangular JoyStick Base](https://a360.co/3q2hyS1)
 
 ## Printing
 - White and black PLA+, red PTEG
@@ -18,12 +25,13 @@ You can see assembled 3D model in [this URL](https://a360.co/3Li3Hh7)
 ## Components (not complete)
 - Bearing  (10x22x6mm)  - 5 units
 - Adhesive non-slip pad 200x200mm - 1 init
-- Hall-effect sensor (SS49E for example) - 1 units
-- Ceramic capacitor 50V 104 100nF 0.1uf - 1 units
-- Cilindrical magnets (5x10mm) - 2 units
-- 5-Way Switch 10x10x10mm Multi Direction Switch Touch Reset Button - 3 units
+- The TLE5011/5010 sensors - 2 units
+- Hall-effect sensor (SS49E for example) - 1 unit
+- Ceramic capacitor 50V 104 100nF 0.1uf - 1 unit
+- Cilindrical magnets (5x10mm) - 4 units
+- 5-Way Switch 10x10x10mm Multi Direction Switch Touch Reset Button - 4 units
 - Push Button 6x6 4.3mm - 5 units
-- Miniature toggle switch- on/of/on - 5 units
+- Miniature toggle switch (on/of/on or reset/of/reset ) - 2 units
 - Potentiometer (WH148) 10K Ohm (B10K) - 2 units
 - Switching Diode (for example 1N4148) - 30 units
 - Micro-USB 5pin Micro USB 2.0 Male to USB 2.0 B Type Female Connector Cable 30cm With Panel Mount Hole cables - 1 unit
