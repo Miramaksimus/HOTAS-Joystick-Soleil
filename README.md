@@ -17,7 +17,7 @@ You can see the assembled 3D models in web:
 - [Rectangular JoyStick Base](https://a360.co/3q2hyS1)
 
 ## Printing
-- White and black PLA+, red PETG
+- White and black PLA+, red PET-G
 - Rafts: Yes
 - Supports: Yes
 - Infill: 20 - 30 - 60%
@@ -30,7 +30,7 @@ You can see the assembled 3D models in web:
 - The TLE5011/5010 sensors - 2 units
 - Hall-effect sensor (SS49E for example) - 1 unit
 - Ceramic capacitor 50V 104 100nF 0.1uf - 1 unit
-- Cilindrical magnets (5x10mm) - 4 units
+- Cylindrical magnets (5x10mm) - 4 units
 - 5-Way Switch 10x10x10mm Multi Direction Switch Touch Reset Button - 4 units
 - Push Button 6x6 4.3mm - 5 units
 - Miniature toggle switch (on/of/on or reset/of/reset ) - 2 units
