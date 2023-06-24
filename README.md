@@ -23,7 +23,7 @@ You can see the assembled 3D models in web:
 - Infill: 30 - 60%
  
 ## Components (not complete)
-- Bearing  (10x22x6mm)  - 5 units
+- Bearing 6802zz (15x24x5mm)  - 5 units
 - Adhesive non-slip pad 200x200mm - 1 init
 - The TLE5011/5010 sensors - 2 units
 - Hall-effect sensor (SS49E for example) - 1 unit
