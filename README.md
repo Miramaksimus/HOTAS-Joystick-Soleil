@@ -34,7 +34,7 @@ You can see the assembled 3D models in web:
 - 5-Way Switch 10x10x10mm Multi Direction Switch Touch Reset Button - 4 units
 - Push Button 6x6 4.3mm - 5 units
 - Miniature toggle switch (on/of/on or reset/of/reset ) - 2 units
-- Potentiometer (WH148) 10K Ohm (B10K) - 2 units
+- Potentiometer (WH148) 10K Ohm (B10K) - 3 units
 - Switching Diode (for example 1N4148) - 30 units
 - Micro-USB 5pin Micro USB 2.0 Male to USB 2.0 B Type Female Connector Cable 30cm With Panel Mount Hole cables - 1 unit
 - Wires - 28-32 AWG 
@@ -44,7 +44,7 @@ You can see the assembled 3D models in web:
 - [FreeJoy soft and manual](https://github.com/FreeJoy-Team/FreeJoyWiki)
 
 ### Screws, nuts, etc…
-- WiP
+- WiP - [See the answer to the issue](https://github.com/Miramaksimus/HOTAS-Joystick-Soleil/issues/3#issuecomment-2561463725)
 
 
 ##  Images
